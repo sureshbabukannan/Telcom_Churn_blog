@@ -56,3 +56,29 @@
 >###### 3. Random Forrest Ensemble. 
 
 ###### The metrics of the models used are compared here where Logistic regression with dummy variable substitution technique has better model metrics and can be used for prediction on  new customers data
+
+![Accuracy scores and RoC AUC scores](/metrics.png "Accuracy scores and RoC AUC scores")
+
+## Logistic Regression model scores
+
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=42, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+
+Classification report for dataset with Dummy variable replacement: 
+              precision    recall  f1-score   support
+
+          0       0.85      0.90      0.87      1539
+          1       0.68      0.57      0.62       574
+
+avg / total       0.80      0.81      0.81      2113
+
+Accuracy   Score :  0.811168954094
+Area under curve :  0.737099071074
+
+![Area under the Curve graph](logit.png "Area under the Curve graph")
+
+![Feature Importance coefficient plot](feature_impartance.png "Feature Importance coefficient plot")
+
+###### Hope this was useful. Thanks for your time.
