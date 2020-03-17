@@ -36,3 +36,23 @@
 > ###### The data speaks for itself.
 
 ![Customer Churn by Monthly Charges](/Monthly_Charges.png "Customer Churn by Monthly Charges")
+
+![Count of customer churned in Tenure in months](/tenure.png "Count of customer churned in Tenure in months")
+
+###### Interestingly, gender, having dependents or partners does not seem to have a significant impact on the customer churn.
+
+## What can be do to prevent customers leaving 
+
+###### Luckily, there are machine learning model which can be build and trained to predict if the customer have a probability of leaving. This gives the Telecom companies an opportunity to proactively address any customer issue before it is too late. There are many ideas present in other article like [here](https://medium.com/@paldesk/what-is-customer-churn-how-to-reduce-it-402460e5b569) and data models describe in other [articles](https://medium.com/dataseries/how-to-predict-customer-churn-29b68ecab223) used to predict Telcom customer churn.
+
+###### With the data and models I have used to predict the probability  of customer moving on, the Machine learning model using Logistic regression technique proves to be the best.
+
+###### For those of are not aware of machine learning model or think it a machine with the intelligent of human being then [check out here](https://medium.com/@randylaosat/a-beginners-guide-to-machine-learning-dfadc19f6caf).
+
+## The chosen Model
+###### There are many other ML model which could perform better but, the models I have used are 
+> ###### 1. Logistic regression using number encoding of feature
+> ###### 2. Logistic regression using dummy variable encoding of feature.
+>###### 3. Random Forrest Ensemble. 
+
+###### The metrics of the models used are compared here where Logistic regression with dummy variable substitution technique has better model metrics and can be used for prediction on  new customers data
