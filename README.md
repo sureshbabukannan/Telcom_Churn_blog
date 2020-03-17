@@ -26,7 +26,7 @@
 
 ###### _It boils down to a deadly combination that could be summaried as_
 
->> ###### _There is more than 70% of chance of person using only Fiber optics internet service with month-on-month contract of __$70 - $100__ paying through Electronic Check leaving in a month._
+>> ###### _There is more than 70% of chance for a person using only Fiber optics internet service with month-on-month contract of __$70 - $100__ paying through Electronic Check leaving in a month._
 
 ###### The graph below shows the counts of subscribers who left versus who stayed against each feature. This give a broad picture of which feature contributes to higher churn rate.
 
@@ -74,8 +74,8 @@ Classification report for dataset with Dummy variable replacement:
 
 avg / total       0.80      0.81      0.81      2113
 
-Accuracy   Score :  0.811168954094
-Area under curve :  0.737099071074
+Accuracy   Score :  __0.811168954094__
+Area under curve :  __0.737099071074__
 
 ![Area under the Curve graph](logit.png "Area under the Curve graph")
 
