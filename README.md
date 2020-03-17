@@ -30,7 +30,7 @@
 
 ###### The graph below shows the counts of subscribers who left versus who stayed against each feature. This give a broad picture of which feature contributes to higher churn rate.
 
-![Customer Churn Categories  Source: kaggle.com customer churn data.](/churn.png "Customer Churn Categories  Source: kaggle.com customer churn data.")
+![Customer Churn Categories  Source: kaggle.com customer churn data.](churn.png "Customer Churn Categories  Source: kaggle.com customer churn data.")
 
 ## Tenure and Monthly Charges
 > ###### The data speaks for itself.
