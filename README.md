@@ -1,6 +1,6 @@
 # So that's why Telecom customers jump tanks..
 
-![Monthly contract, only internet and Bill shock could be the doing the damage](customerchurn_775x425_612.png "Monthly contract, only internet and Bill shock could be the doing the damage")
+![Monthly contract, only internet and Bill shock could be the doing the damage](/Telcom_Churn_blog/customerchurn_775x425_612.png "Monthly contract, only internet and Bill shock could be the doing the damage")
 
 ######                Monthly contract, only internet and Bill shock could be the doing the damage
 
@@ -30,14 +30,14 @@
 
 ###### The graph below shows the counts of subscribers who left versus who stayed against each feature. This give a broad picture of which feature contributes to higher churn rate.
 
-![Customer Churn Categories  Source: kaggle.com customer churn data.](churn.png "Customer Churn Categories  Source: kaggle.com customer churn data.")
+![Customer Churn Categories  Source: kaggle.com customer churn data.](/Telcom_Churn_blog/churn.png "Customer Churn Categories  Source: kaggle.com customer churn data.")
 
 ## Tenure and Monthly Charges
 > ###### The data speaks for itself.
 
-![Customer Churn by Monthly Charges](Monthly_Charges.png "Customer Churn by Monthly Charges")
+![Customer Churn by Monthly Charges](/Telcom_Churn_blog/Monthly_Charges.png "Customer Churn by Monthly Charges")
 
-![Count of customer churned in Tenure in months](tenure.png "Count of customer churned in Tenure in months")
+![Count of customer churned in Tenure in months](/Telcom_Churn_blog/tenure.png "Count of customer churned in Tenure in months")
 
 ###### Interestingly, gender, having dependents or partners does not seem to have a significant impact on the customer churn.
 
@@ -57,7 +57,7 @@
 
 ###### The metrics of the models used are compared here where Logistic regression with dummy variable substitution technique has better model metrics and can be used for prediction on  new customers data
 
-![Accuracy scores and RoC AUC scores](metrics.png "Accuracy scores and RoC AUC scores")
+![Accuracy scores and RoC AUC scores](/Telcom_Churn_blog/metrics.png "Accuracy scores and RoC AUC scores")
 
 ## Logistic Regression model scores
 
