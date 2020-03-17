@@ -1,2 +1,1 @@
-# Telcom_Churn_blog
-Telecom Churn blog post
+# So that's why Telecom customers jump tanks..
