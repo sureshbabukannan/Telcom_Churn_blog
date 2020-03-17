@@ -1,6 +1,6 @@
 # So that's why Telecom customers jump tanks..
 
-![Monthly contract, only internet and Bill shock could be the doing the damage](/customerchurn_775x425_612.png "Monthly contract, only internet and Bill shock could be the doing the damage")
+![Monthly contract, only internet and Bill shock could be the doing the damage](customerchurn_775x425_612.png "Monthly contract, only internet and Bill shock could be the doing the damage")
 
 ######                Monthly contract, only internet and Bill shock could be the doing the damage
 
@@ -35,9 +35,9 @@
 ## Tenure and Monthly Charges
 > ###### The data speaks for itself.
 
-![Customer Churn by Monthly Charges](/Monthly_Charges.png "Customer Churn by Monthly Charges")
+![Customer Churn by Monthly Charges](Monthly_Charges.png "Customer Churn by Monthly Charges")
 
-![Count of customer churned in Tenure in months](/tenure.png "Count of customer churned in Tenure in months")
+![Count of customer churned in Tenure in months](tenure.png "Count of customer churned in Tenure in months")
 
 ###### Interestingly, gender, having dependents or partners does not seem to have a significant impact on the customer churn.
 
@@ -57,7 +57,7 @@
 
 ###### The metrics of the models used are compared here where Logistic regression with dummy variable substitution technique has better model metrics and can be used for prediction on  new customers data
 
-![Accuracy scores and RoC AUC scores](/metrics.png "Accuracy scores and RoC AUC scores")
+![Accuracy scores and RoC AUC scores](metrics.png "Accuracy scores and RoC AUC scores")
 
 ## Logistic Regression model scores
 
