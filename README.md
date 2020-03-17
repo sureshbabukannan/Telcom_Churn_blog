@@ -35,4 +35,4 @@
 ## Tenure and Monthly Charges
 > ###### The data speaks for itself.
 
-![Customer Churn by Monthly Charges](/Monthly Charges.png "Customer Churn by Monthly Charges")
+![Customer Churn by Monthly Charges](/Monthly_Charges.png "Customer Churn by Monthly Charges")
